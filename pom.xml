@@ -10,7 +10,6 @@
     <groupId>com.fxz</groupId>
     <artifactId>fuled-boot</artifactId>
     <version>1.0.0.WaterDrop</version>
-    <packaging>pom</packaging>
     <name>fuled-boot</name>
     <description>fuled-boot</description>
     <properties>
